@@ -22,15 +22,11 @@ And this is how my breadboard circuit looks like:
 <br><br>
 
 Here is a demo of playing doom :
-<video src="videos/doom_demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[ Watch Doom Demo](videos/doom_demo.mp4)
 <br><br>
 
 And here is me playing guessing game:
-<video src="videos/guessing_game_demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[Watch Guessing Game Demo](videos/guessing_game_demo.mp4)
 <br><br>
 
 # Installation & Running
