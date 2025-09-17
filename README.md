@@ -22,11 +22,11 @@ And this is how my breadboard circuit looks like:
 <br><br>
 
 Here is a demo of playing doom :
-[ Watch Doom Demo](videos/doom_demo.mp4)
+![ Watch Doom Demo](videos/doom_demo.gif)
 <br><br>
 
 And here is me playing guessing game:
-[Watch Guessing Game Demo](videos/guessing_game_demo.mp4)
+![Watch Guessing Game Demo](videos/guessing_game_demo.gif)
 <br><br>
 
 # Installation & Running
