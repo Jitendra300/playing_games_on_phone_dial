@@ -21,14 +21,14 @@ And this is how my breadboard circuit looks like:
 ![Breadboard Circuit](/images/breadboard_circuit.jpg "Breadboard Circuit")
 <br><br>
 
-Here is a demo of playing doom :
+Here is a demo of playing doom :<br>
 ![ Watch Doom Demo](videos/doom_demo.gif)
 <br><br>
 
-And here is me playing guessing game:
+And here is me playing guessing game:<br>
 ![Watch Guessing Game Demo](videos/guessing_game_demo.gif)
 <br><br>
-
+**Note: ** To view with audio just download and view the guessing_game_demo.mp4 from /videos directory.
 # Installation & Running
 
 ```
