@@ -28,7 +28,7 @@ Here is a demo of playing doom :<br>
 And here is me playing guessing game:<br>
 ![Watch Guessing Game Demo](videos/guessing_game_demo.gif)
 <br><br>
-**Note: ** To view with audio just download and view the guessing_game_demo.mp4 from /videos directory.
+**Note:** To view with audio just download and view the guessing_game_demo.mp4 from /videos directory.
 # Installation & Running
 
 ```
